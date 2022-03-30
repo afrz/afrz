@@ -1,7 +1,10 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h2>Hey! Nice to see you.</h2>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=8E09FF&center=true&vCenter=true&multiline=true&width=700&lines=I'm+Alexis%2C+fullstack+developer+from+Lyon%2C+France)](https://git.io/typing-svg)
+
+<!--
 </br> I'm Alexis, fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="15"/> <b>Lyon, France</b>
-
+-->
 ## ⚡ Tech
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -22,5 +25,7 @@
 
 </br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=afrz&include_all_commits=true&count_private=true&hide_title=true&show_icons=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrz&layout=compact&hide_title=true&langs_count=3)
+![Github stats](https://github-readme-stats.vercel.app/api?username=afrz&include_all_commits=true&count_private=true&hide_title=true&show_icons=true&bg_color=00000000&hide_border=true)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrz&layout=compact&hide_title=true&bg_color=00000000&hide_border=true&langs_count=3)
+
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
